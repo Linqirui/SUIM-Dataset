@@ -17,19 +17,12 @@ This repository is intended for researchers and developers who want to directly 
 
 ---
 
-## Preview
 
-### 1. Dataset Example
+## Dataset Example
 
-> Replace the image path below with your own image file.
 
-![SUIM Sample](docs/images/suim_sample.png)
+![SUIM Sample](SUIM_samples.jpg)
 
-### 2. Pascal VOC Directory Structure
-
-> Replace the image path below with your own structure illustration.
-
-![Pascal VOC Structure](docs/images/voc_structure.png)
 
 ---
 
